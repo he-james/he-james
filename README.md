@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm James (he/him) and I am a startup consultant at [Papa Bear Software](www.papabearsoftware.com), where I help startups build solutions rapidly and effectively. I am based in Bloomington, IN.
+I'm James (he/him) and I am a Junior Software Engineer at [Boulder Heavy Industries](www.boulderheavyindustries.com).
 
 I first began programming by creating pretty terrible web applications in HTML and CSS when I was very young;
 but now, I specialize in using Python and JavaScript to make APIs and websites (with Flask) and mobile applications (using React Native).
